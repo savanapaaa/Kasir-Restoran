@@ -1,0 +1,32 @@
+D:\SEMESTER 3\PEMVIS\Aplikasi Restoran\Aplikasi Restoran\bin\Debug\net6.0-windows\Aplikasi Restoran.exe
+D:\SEMESTER 3\PEMVIS\Aplikasi Restoran\Aplikasi Restoran\bin\Debug\net6.0-windows\Aplikasi Restoran.deps.json
+D:\SEMESTER 3\PEMVIS\Aplikasi Restoran\Aplikasi Restoran\bin\Debug\net6.0-windows\Aplikasi Restoran.runtimeconfig.json
+D:\SEMESTER 3\PEMVIS\Aplikasi Restoran\Aplikasi Restoran\bin\Debug\net6.0-windows\Aplikasi Restoran.dll
+D:\SEMESTER 3\PEMVIS\Aplikasi Restoran\Aplikasi Restoran\bin\Debug\net6.0-windows\Aplikasi Restoran.pdb
+D:\SEMESTER 3\PEMVIS\Aplikasi Restoran\Aplikasi Restoran\obj\Debug\net6.0-windows\Aplikasi_Restoran.Form1.resources
+D:\SEMESTER 3\PEMVIS\Aplikasi Restoran\Aplikasi Restoran\obj\Debug\net6.0-windows\Aplikasi Restoran.vbproj.GenerateResource.cache
+D:\SEMESTER 3\PEMVIS\Aplikasi Restoran\Aplikasi Restoran\obj\Debug\net6.0-windows\Aplikasi Restoran.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEMESTER 3\PEMVIS\Aplikasi Restoran\Aplikasi Restoran\obj\Debug\net6.0-windows\Aplikasi Restoran.AssemblyInfoInputs.cache
+D:\SEMESTER 3\PEMVIS\Aplikasi Restoran\Aplikasi Restoran\obj\Debug\net6.0-windows\Aplikasi Restoran.AssemblyInfo.vb
+D:\SEMESTER 3\PEMVIS\Aplikasi Restoran\Aplikasi Restoran\obj\Debug\net6.0-windows\Aplikasi Restoran.vbproj.CoreCompileInputs.cache
+D:\SEMESTER 3\PEMVIS\Aplikasi Restoran\Aplikasi Restoran\obj\Debug\net6.0-windows\Aplikasi Restoran.dll
+D:\SEMESTER 3\PEMVIS\Aplikasi Restoran\Aplikasi Restoran\obj\Debug\net6.0-windows\refint\Aplikasi Restoran.dll
+D:\SEMESTER 3\PEMVIS\Aplikasi Restoran\Aplikasi Restoran\obj\Debug\net6.0-windows\Aplikasi Restoran.pdb
+D:\SEMESTER 3\PEMVIS\Aplikasi Restoran\Aplikasi Restoran\obj\Debug\net6.0-windows\Aplikasi Restoran.genruntimeconfig.cache
+D:\SEMESTER 3\PEMVIS\Aplikasi Restoran\Aplikasi Restoran\obj\Debug\net6.0-windows\ref\Aplikasi Restoran.dll
+D:\@SEMESTER 3\PEMVIS\Aplikasi Restoran\Aplikasi Restoran\bin\Debug\net6.0-windows\Aplikasi Restoran.exe
+D:\@SEMESTER 3\PEMVIS\Aplikasi Restoran\Aplikasi Restoran\bin\Debug\net6.0-windows\Aplikasi Restoran.deps.json
+D:\@SEMESTER 3\PEMVIS\Aplikasi Restoran\Aplikasi Restoran\bin\Debug\net6.0-windows\Aplikasi Restoran.runtimeconfig.json
+D:\@SEMESTER 3\PEMVIS\Aplikasi Restoran\Aplikasi Restoran\bin\Debug\net6.0-windows\Aplikasi Restoran.dll
+D:\@SEMESTER 3\PEMVIS\Aplikasi Restoran\Aplikasi Restoran\bin\Debug\net6.0-windows\Aplikasi Restoran.pdb
+D:\@SEMESTER 3\PEMVIS\Aplikasi Restoran\Aplikasi Restoran\obj\Debug\net6.0-windows\Aplikasi_Restoran.Form1.resources
+D:\@SEMESTER 3\PEMVIS\Aplikasi Restoran\Aplikasi Restoran\obj\Debug\net6.0-windows\Aplikasi Restoran.vbproj.GenerateResource.cache
+D:\@SEMESTER 3\PEMVIS\Aplikasi Restoran\Aplikasi Restoran\obj\Debug\net6.0-windows\Aplikasi Restoran.GeneratedMSBuildEditorConfig.editorconfig
+D:\@SEMESTER 3\PEMVIS\Aplikasi Restoran\Aplikasi Restoran\obj\Debug\net6.0-windows\Aplikasi Restoran.AssemblyInfoInputs.cache
+D:\@SEMESTER 3\PEMVIS\Aplikasi Restoran\Aplikasi Restoran\obj\Debug\net6.0-windows\Aplikasi Restoran.AssemblyInfo.vb
+D:\@SEMESTER 3\PEMVIS\Aplikasi Restoran\Aplikasi Restoran\obj\Debug\net6.0-windows\Aplikasi Restoran.vbproj.CoreCompileInputs.cache
+D:\@SEMESTER 3\PEMVIS\Aplikasi Restoran\Aplikasi Restoran\obj\Debug\net6.0-windows\Aplikasi Restoran.dll
+D:\@SEMESTER 3\PEMVIS\Aplikasi Restoran\Aplikasi Restoran\obj\Debug\net6.0-windows\refint\Aplikasi Restoran.dll
+D:\@SEMESTER 3\PEMVIS\Aplikasi Restoran\Aplikasi Restoran\obj\Debug\net6.0-windows\Aplikasi Restoran.pdb
+D:\@SEMESTER 3\PEMVIS\Aplikasi Restoran\Aplikasi Restoran\obj\Debug\net6.0-windows\Aplikasi Restoran.genruntimeconfig.cache
+D:\@SEMESTER 3\PEMVIS\Aplikasi Restoran\Aplikasi Restoran\obj\Debug\net6.0-windows\ref\Aplikasi Restoran.dll

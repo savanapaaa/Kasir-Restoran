@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Aplikasi Restoran/1.0.0": {
+        "runtime": {
+          "Aplikasi Restoran.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aplikasi Restoran/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
